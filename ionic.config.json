@@ -1,0 +1,8 @@
+{
+  "name": "webViewSample",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

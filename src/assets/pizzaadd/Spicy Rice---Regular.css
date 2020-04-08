@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Spicy Rice---Regular';
+	font-weight: 400;
+	font-style: normal;
+	src: url('Spicy Rice---Regular.eot');
+	src: local('Spicy Rice---Regular'),local('Spicy Rice---Regular'),
+		url('Spicy Rice---Regular.eot?#iefix') format('embedded-opentype'),
+		url('Spicy Rice---Regular.woff2') format('woff2'),
+		url('Spicy Rice---Regular.woff') format('woff'),
+		url('Spicy Rice---Regular.ttf') format('truetype'),
+		url('Spicy Rice---Regular.svg#Spicy Rice---Regular') format('svg');
+}
